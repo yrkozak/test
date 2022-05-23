@@ -1,5 +1,6 @@
 Readme!!!
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 Version control
@@ -11,3 +12,5 @@ Version Control concept
 111
 222
 >>>>>>> 5067289e50e689a22dbe951a2b83bf18e7b8703f
+=======
+>>>>>>> parent of f8992ed (revert test)
